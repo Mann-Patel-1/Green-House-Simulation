@@ -104,7 +104,7 @@ public class Controller {
                 writer.write(content);
                 writer.close();
             } catch (IOException ex) {
-                // TODO: handle exception
+                System.out.println("Error");
             }
             
             
@@ -125,7 +125,7 @@ public class Controller {
                 reader.close();
                 
             } catch (Exception ez) {
-                // TODO: handle exception
+                System.out.println("Error");
             }
 
         }

@@ -1,0 +1,683 @@
+
+*** Temperature: 12 ## Temperature Decrease rate: 2 ## Temperature Increase rate: 2 ## Temperature Sample rate: 32
+*** Humidity: 23 ## Humidity Decrease rate: 3 ## Humidity Increase rate: 3 ## Humidity Sample rate (mille): 23
+*** Soil Moister: 23 ## Soil Moister Decrease rate: 4 ## Soil Moister Increase rate: 3 ## Soil Moister Sample rate (mille): 36
+*** Weather: 12
+*** Temperature:  ## Temperature Decrease rate:  ## Temperature Increase rate:  ## Temperature Sample rate: 
+*** Humidity:  ## Humidity Decrease rate:  ## Humidity Increase rate:  ## Humidity Sample rate (mille): 
+*** Soil Moister:  ## Soil Moister Decrease rate:  ## Soil Moister Increase rate:  ## Soil Moister Sample rate (mille): 
+*** Weather: 
+Green_House_Simulation_System.Temperature : 24.0 || Furncae-> OFF   Air Conditioner-> OFF
+Green_House_Simulation_System.Humidity : 35.0 || Humidifier -> OFF
+Soil Moisture : 35.0 || Sprinkler System -> OFF
+Soil Moisture : 32.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 31.0 || Humidifier -> OFF
+Green_House_Simulation_System.Temperature : 22.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 29.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 20.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 27.0 || Humidifier -> OFF
+Soil Moisture : 26.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 18.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 23.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 23.0 || Humidifier -> OFF
+Soil Moisture : 35.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 16.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 35.0 || Humidifier -> OFF
+Soil Moisture : 32.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 14.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 29.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 31.0 || Humidifier -> OFF
+Soil Moisture : 26.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 26.0 || Furncae-> OFF   Air Conditioner-> OFF
+Soil Moisture : 23.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 27.0 || Humidifier -> OFF
+Green_House_Simulation_System.Temperature : 24.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 35.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 23.0 || Humidifier -> OFF
+Green_House_Simulation_System.Temperature : 22.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 32.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 20.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 29.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 35.0 || Humidifier -> OFF
+Soil Moisture : 26.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 18.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 31.0 || Humidifier -> OFF
+Soil Moisture : 23.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 16.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 27.0 || Humidifier -> OFF
+Soil Moisture : 35.0 || Sprinkler System -> OFF
+Soil Moisture : 32.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 14.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 23.0 || Humidifier -> OFF
+Soil Moisture : 29.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 26.0 || Furncae-> OFF   Air Conditioner-> OFF
+Green_House_Simulation_System.Humidity : 35.0 || Humidifier -> OFF
+Soil Moisture : 26.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 24.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 23.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 31.0 || Humidifier -> OFF
+Green_House_Simulation_System.Temperature : 22.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 35.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 27.0 || Humidifier -> OFF
+Soil Moisture : 32.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 20.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 29.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 23.0 || Humidifier -> OFF
+Green_House_Simulation_System.Temperature : 18.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 26.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 35.0 || Humidifier -> OFF
+Green_House_Simulation_System.Temperature : 16.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 23.0 || Sprinkler System -> OFF
+Soil Moisture : 35.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 14.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 31.0 || Humidifier -> OFF
+Soil Moisture : 32.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 26.0 || Furncae-> OFF   Air Conditioner-> OFF
+Green_House_Simulation_System.Humidity : 27.0 || Humidifier -> OFF
+Soil Moisture : 29.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 24.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 23.0 || Humidifier -> OFF
+Soil Moisture : 26.0 || Sprinkler System -> OFF
+Soil Moisture : 23.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 22.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 35.0 || Humidifier -> OFF
+Soil Moisture : 35.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 20.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 31.0 || Humidifier -> OFF
+Soil Moisture : 32.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 18.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 29.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 27.0 || Humidifier -> OFF
+Soil Moisture : 26.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 16.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 23.0 || Humidifier -> OFF
+Soil Moisture : 23.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 14.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 35.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 35.0 || Humidifier -> OFF
+Green_House_Simulation_System.Temperature : 26.0 || Furncae-> OFF   Air Conditioner-> OFF
+Soil Moisture : 32.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 31.0 || Humidifier -> OFF
+Green_House_Simulation_System.Temperature : 24.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 29.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 22.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 27.0 || Humidifier -> OFF
+Soil Moisture : 26.0 || Sprinkler System -> OFF
+Soil Moisture : 23.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 20.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 23.0 || Humidifier -> OFF
+Soil Moisture : 35.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 18.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 35.0 || Humidifier -> OFF
+Soil Moisture : 32.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 16.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 29.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 31.0 || Humidifier -> OFF
+Soil Moisture : 26.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 14.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 27.0 || Humidifier -> OFF
+Soil Moisture : 23.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 26.0 || Furncae-> OFF   Air Conditioner-> OFF
+Soil Moisture : 35.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 23.0 || Humidifier -> OFF
+Green_House_Simulation_System.Temperature : 24.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 32.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 35.0 || Humidifier -> OFF
+Soil Moisture : 29.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 22.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 26.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 31.0 || Humidifier -> OFF
+Green_House_Simulation_System.Temperature : 20.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 23.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 18.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 27.0 || Humidifier -> OFF
+Soil Moisture : 35.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 16.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 23.0 || Humidifier -> OFF
+Soil Moisture : 32.0 || Sprinkler System -> OFF
+Soil Moisture : 29.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 14.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 35.0 || Humidifier -> OFF
+Soil Moisture : 26.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 26.0 || Furncae-> OFF   Air Conditioner-> OFF
+Green_House_Simulation_System.Humidity : 31.0 || Humidifier -> OFF
+Soil Moisture : 23.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 24.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 35.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 27.0 || Humidifier -> OFF
+Soil Moisture : 32.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 22.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 23.0 || Humidifier -> OFF
+Soil Moisture : 29.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 20.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 26.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 35.0 || Humidifier -> OFF
+Green_House_Simulation_System.Temperature : 18.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 23.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 31.0 || Humidifier -> OFF
+Soil Moisture : 35.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 16.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 32.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 27.0 || Humidifier -> OFF
+Green_House_Simulation_System.Temperature : 14.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 29.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 23.0 || Humidifier -> OFF
+Green_House_Simulation_System.Temperature : 26.0 || Furncae-> OFF   Air Conditioner-> OFF
+Soil Moisture : 26.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 24.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 23.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 35.0 || Humidifier -> OFF
+Soil Moisture : 35.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 22.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 31.0 || Humidifier -> OFF
+Soil Moisture : 32.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 20.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 27.0 || Humidifier -> OFF
+Soil Moisture : 29.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 18.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 26.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 23.0 || Humidifier -> OFF
+Soil Moisture : 23.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 16.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 35.0 || Humidifier -> OFF
+Soil Moisture : 35.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 14.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 32.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 31.0 || Humidifier -> OFF
+Soil Moisture : 29.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 26.0 || Furncae-> OFF   Air Conditioner-> OFF
+Green_House_Simulation_System.Humidity : 27.0 || Humidifier -> OFF
+Soil Moisture : 26.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 24.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 23.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 23.0 || Humidifier -> OFF
+Green_House_Simulation_System.Temperature : 22.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 35.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 20.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 35.0 || Humidifier -> OFF
+Soil Moisture : 32.0 || Sprinkler System -> OFF
+Soil Moisture : 29.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 18.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 31.0 || Humidifier -> OFF
+Soil Moisture : 26.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 16.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 27.0 || Humidifier -> OFF
+Soil Moisture : 23.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 14.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 35.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 23.0 || Humidifier -> OFF
+Soil Moisture : 32.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 26.0 || Furncae-> OFF   Air Conditioner-> OFF
+Green_House_Simulation_System.Humidity : 35.0 || Humidifier -> OFF
+Soil Moisture : 29.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 24.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 26.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 31.0 || Humidifier -> OFF
+Soil Moisture : 23.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 22.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 27.0 || Humidifier -> OFF
+Soil Moisture : 35.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 20.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 32.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 23.0 || Humidifier -> OFF
+Green_House_Simulation_System.Temperature : 18.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 29.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 35.0 || Humidifier -> OFF
+Soil Moisture : 26.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 16.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 23.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 31.0 || Humidifier -> OFF
+Green_House_Simulation_System.Temperature : 14.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 35.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 26.0 || Furncae-> OFF   Air Conditioner-> OFF
+Green_House_Simulation_System.Humidity : 27.0 || Humidifier -> OFF
+Soil Moisture : 32.0 || Sprinkler System -> OFF
+Soil Moisture : 29.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 24.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 23.0 || Humidifier -> OFF
+Soil Moisture : 26.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 22.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 35.0 || Humidifier -> OFF
+Soil Moisture : 23.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 20.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 31.0 || Humidifier -> OFF
+Soil Moisture : 35.0 || Sprinkler System -> OFF
+Soil Moisture : 32.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 18.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 27.0 || Humidifier -> OFF
+Soil Moisture : 29.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 16.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 23.0 || Humidifier -> OFF
+Soil Moisture : 26.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 14.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 35.0 || Humidifier -> OFF
+Soil Moisture : 23.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 26.0 || Furncae-> OFF   Air Conditioner-> OFF
+Soil Moisture : 35.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 31.0 || Humidifier -> OFF
+Soil Moisture : 32.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 24.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 27.0 || Humidifier -> OFF
+Soil Moisture : 29.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 22.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 26.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 23.0 || Humidifier -> OFF
+Soil Moisture : 23.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 20.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 35.0 || Humidifier -> OFF
+Soil Moisture : 35.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 18.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 32.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 31.0 || Humidifier -> OFF
+Green_House_Simulation_System.Temperature : 16.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 29.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 27.0 || Humidifier -> OFF
+Soil Moisture : 26.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 14.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 23.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 26.0 || Furncae-> OFF   Air Conditioner-> OFF
+Green_House_Simulation_System.Humidity : 23.0 || Humidifier -> OFF
+Soil Moisture : 35.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 24.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 35.0 || Humidifier -> OFF
+Soil Moisture : 32.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 22.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 29.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 31.0 || Humidifier -> OFF
+Soil Moisture : 26.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 20.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 27.0 || Humidifier -> OFF
+Soil Moisture : 23.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 18.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 35.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 23.0 || Humidifier -> OFF
+Green_House_Simulation_System.Temperature : 16.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 32.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 35.0 || Humidifier -> OFF
+Soil Moisture : 29.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 14.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 26.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 31.0 || Humidifier -> OFF
+Green_House_Simulation_System.Temperature : 26.0 || Furncae-> OFF   Air Conditioner-> OFF
+Soil Moisture : 23.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 27.0 || Humidifier -> OFF
+Green_House_Simulation_System.Temperature : 24.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 35.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 23.0 || Humidifier -> OFF
+Soil Moisture : 32.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 22.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 29.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 20.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 35.0 || Humidifier -> OFF
+Soil Moisture : 26.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 18.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 31.0 || Humidifier -> OFF
+Soil Moisture : 23.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 16.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 35.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 27.0 || Humidifier -> OFF
+Soil Moisture : 32.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 14.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 23.0 || Humidifier -> OFF
+Soil Moisture : 29.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 26.0 || Furncae-> OFF   Air Conditioner-> OFF
+Soil Moisture : 26.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 35.0 || Humidifier -> OFF
+Green_House_Simulation_System.Temperature : 24.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 23.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 31.0 || Humidifier -> OFF
+Soil Moisture : 35.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 22.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 32.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 27.0 || Humidifier -> OFF
+Green_House_Simulation_System.Temperature : 20.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 29.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 23.0 || Humidifier -> OFF
+Soil Moisture : 26.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 18.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 23.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 35.0 || Humidifier -> OFF
+Green_House_Simulation_System.Temperature : 16.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 35.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 14.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 31.0 || Humidifier -> OFF
+Soil Moisture : 32.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 26.0 || Furncae-> OFF   Air Conditioner-> OFF
+Soil Moisture : 29.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 27.0 || Humidifier -> OFF
+Soil Moisture : 26.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 24.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 23.0 || Humidifier -> OFF
+Soil Moisture : 23.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 22.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 35.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 35.0 || Humidifier -> OFF
+Green_House_Simulation_System.Temperature : 20.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 32.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 31.0 || Humidifier -> OFF
+Soil Moisture : 29.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 18.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 27.0 || Humidifier -> OFF
+Soil Moisture : 26.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 16.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 23.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 23.0 || Humidifier -> OFF
+Green_House_Simulation_System.Temperature : 14.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 35.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 35.0 || Humidifier -> OFF
+Soil Moisture : 32.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 26.0 || Furncae-> OFF   Air Conditioner-> OFF
+Soil Moisture : 29.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 31.0 || Humidifier -> OFF
+Green_House_Simulation_System.Temperature : 24.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 26.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 27.0 || Humidifier -> OFF
+Green_House_Simulation_System.Temperature : 22.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 23.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 23.0 || Humidifier -> OFF
+Soil Moisture : 35.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 20.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 32.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 18.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 35.0 || Humidifier -> OFF
+Soil Moisture : 29.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 16.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 31.0 || Humidifier -> OFF
+Soil Moisture : 26.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 14.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 23.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 27.0 || Humidifier -> OFF
+Soil Moisture : 35.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 26.0 || Furncae-> OFF   Air Conditioner-> OFF
+Green_House_Simulation_System.Humidity : 23.0 || Humidifier -> OFF
+Soil Moisture : 32.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 24.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 29.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 35.0 || Humidifier -> OFF
+Green_House_Simulation_System.Temperature : 22.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 26.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 31.0 || Humidifier -> OFF
+Soil Moisture : 23.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 20.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 35.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 27.0 || Humidifier -> OFF
+Green_House_Simulation_System.Temperature : 18.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 32.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 23.0 || Humidifier -> OFF
+Green_House_Simulation_System.Temperature : 16.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 29.0 || Sprinkler System -> OFF
+Soil Moisture : 26.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 35.0 || Humidifier -> OFF
+Green_House_Simulation_System.Temperature : 14.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 23.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 26.0 || Furncae-> OFF   Air Conditioner-> OFF
+Green_House_Simulation_System.Humidity : 31.0 || Humidifier -> OFF
+Soil Moisture : 35.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 24.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 27.0 || Humidifier -> OFF
+Soil Moisture : 32.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 23.0 || Humidifier -> OFF
+Soil Moisture : 29.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 22.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 26.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 20.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 35.0 || Humidifier -> OFF
+Soil Moisture : 23.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 18.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 31.0 || Humidifier -> OFF
+Soil Moisture : 35.0 || Sprinkler System -> OFF
+Soil Moisture : 32.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 16.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 27.0 || Humidifier -> OFF
+Soil Moisture : 29.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 14.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 23.0 || Humidifier -> OFF
+Soil Moisture : 26.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 26.0 || Furncae-> OFF   Air Conditioner-> OFF
+Soil Moisture : 23.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 35.0 || Humidifier -> OFF
+Green_House_Simulation_System.Temperature : 24.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 35.0 || Sprinkler System -> OFF
+Soil Moisture : 32.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 31.0 || Humidifier -> OFF
+Green_House_Simulation_System.Temperature : 22.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 29.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 20.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 27.0 || Humidifier -> OFF
+Soil Moisture : 26.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 18.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 23.0 || Humidifier -> OFF
+Soil Moisture : 23.0 || Sprinkler System -> OFF
+Soil Moisture : 35.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 16.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 35.0 || Humidifier -> OFF
+Soil Moisture : 32.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 14.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 31.0 || Humidifier -> OFF
+Soil Moisture : 29.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 26.0 || Furncae-> OFF   Air Conditioner-> OFF
+Soil Moisture : 26.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 27.0 || Humidifier -> OFF
+Soil Moisture : 23.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 24.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 23.0 || Humidifier -> OFF
+Soil Moisture : 35.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 22.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 32.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 35.0 || Humidifier -> OFF
+Green_House_Simulation_System.Temperature : 20.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 29.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 31.0 || Humidifier -> OFF
+Soil Moisture : 26.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 18.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 23.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 27.0 || Humidifier -> OFF
+Green_House_Simulation_System.Temperature : 16.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 35.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 23.0 || Humidifier -> OFF
+Green_House_Simulation_System.Temperature : 14.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 32.0 || Sprinkler System -> OFF
+Soil Moisture : 29.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 26.0 || Furncae-> OFF   Air Conditioner-> OFF
+Green_House_Simulation_System.Humidity : 35.0 || Humidifier -> OFF
+Soil Moisture : 26.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 24.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 31.0 || Humidifier -> OFF
+Soil Moisture : 23.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 22.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 27.0 || Humidifier -> OFF
+Soil Moisture : 35.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 20.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 32.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 23.0 || Humidifier -> OFF
+Soil Moisture : 29.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 18.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 35.0 || Humidifier -> OFF
+Soil Moisture : 26.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 16.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 23.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 31.0 || Humidifier -> OFF
+Soil Moisture : 35.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 14.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 27.0 || Humidifier -> OFF
+Soil Moisture : 32.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 26.0 || Furncae-> OFF   Air Conditioner-> OFF
+Soil Moisture : 29.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 23.0 || Humidifier -> OFF
+Green_House_Simulation_System.Temperature : 24.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 26.0 || Sprinkler System -> OFF
+Soil Moisture : 23.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 35.0 || Humidifier -> OFF
+Green_House_Simulation_System.Temperature : 22.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 35.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 20.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 31.0 || Humidifier -> OFF
+Soil Moisture : 32.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 18.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 27.0 || Humidifier -> OFF
+Soil Moisture : 29.0 || Sprinkler System -> OFF
+Soil Moisture : 26.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 16.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 23.0 || Humidifier -> OFF
+Soil Moisture : 23.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 14.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 35.0 || Humidifier -> OFF
+Soil Moisture : 35.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 26.0 || Furncae-> OFF   Air Conditioner-> OFF
+Soil Moisture : 32.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 31.0 || Humidifier -> OFF
+Soil Moisture : 29.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 24.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 27.0 || Humidifier -> OFF
+Soil Moisture : 26.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 22.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 23.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 23.0 || Humidifier -> OFF
+Green_House_Simulation_System.Temperature : 20.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 35.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 35.0 || Humidifier -> OFF
+Soil Moisture : 32.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 18.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 31.0 || Humidifier -> OFF
+Soil Moisture : 29.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 16.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 26.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 27.0 || Humidifier -> OFF
+Green_House_Simulation_System.Temperature : 14.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 23.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 23.0 || Humidifier -> OFF
+Soil Moisture : 35.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 26.0 || Furncae-> OFF   Air Conditioner-> OFF
+Soil Moisture : 32.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 24.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 35.0 || Humidifier -> OFF
+Soil Moisture : 29.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 22.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 31.0 || Humidifier -> OFF
+Soil Moisture : 26.0 || Sprinkler System -> OFF
+Soil Moisture : 23.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 20.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 27.0 || Humidifier -> OFF
+Soil Moisture : 35.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 18.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 32.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 23.0 || Humidifier -> OFF
+Green_House_Simulation_System.Temperature : 16.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 29.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 35.0 || Humidifier -> OFF
+Soil Moisture : 26.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 14.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 23.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 31.0 || Humidifier -> OFF
+Green_House_Simulation_System.Temperature : 26.0 || Furncae-> OFF   Air Conditioner-> OFF
+Soil Moisture : 35.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 27.0 || Humidifier -> OFF
+Green_House_Simulation_System.Temperature : 24.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 32.0 || Sprinkler System -> OFF
+Soil Moisture : 29.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 23.0 || Humidifier -> OFF
+Green_House_Simulation_System.Temperature : 22.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 26.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 20.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 35.0 || Humidifier -> OFF
+Soil Moisture : 23.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 18.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 31.0 || Humidifier -> OFF
+Soil Moisture : 35.0 || Sprinkler System -> OFF
+Soil Moisture : 32.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 16.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 27.0 || Humidifier -> OFF
+Soil Moisture : 29.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 14.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 23.0 || Humidifier -> OFF
+Soil Moisture : 26.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 26.0 || Furncae-> OFF   Air Conditioner-> OFF
+Soil Moisture : 23.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 35.0 || Humidifier -> OFF
+Soil Moisture : 35.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 24.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 31.0 || Humidifier -> OFF
+Soil Moisture : 32.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 22.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 29.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 27.0 || Humidifier -> OFF
+Green_House_Simulation_System.Temperature : 20.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 26.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 23.0 || Humidifier -> OFF
+Green_House_Simulation_System.Temperature : 18.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 23.0 || Sprinkler System -> OFF
+Soil Moisture : 35.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 16.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 35.0 || Humidifier -> OFF
+Soil Moisture : 32.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 14.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 31.0 || Humidifier -> OFF
+Soil Moisture : 29.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 26.0 || Furncae-> OFF   Air Conditioner-> OFF
+Soil Moisture : 26.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 27.0 || Humidifier -> OFF
+Soil Moisture : 23.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 24.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 23.0 || Humidifier -> OFF
+Soil Moisture : 35.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 22.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 32.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 35.0 || Humidifier -> OFF
+Green_House_Simulation_System.Temperature : 20.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 29.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 31.0 || Humidifier -> OFF
+Soil Moisture : 26.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 18.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 23.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 27.0 || Humidifier -> OFF
+Green_House_Simulation_System.Temperature : 16.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 35.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 23.0 || Humidifier -> OFF
+Green_House_Simulation_System.Temperature : 14.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 32.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 35.0 || Humidifier -> OFF
+Soil Moisture : 29.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 26.0 || Furncae-> OFF   Air Conditioner-> OFF
+Soil Moisture : 26.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 31.0 || Humidifier -> OFF
+Green_House_Simulation_System.Temperature : 24.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 23.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 22.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 27.0 || Humidifier -> OFF
+Soil Moisture : 35.0 || Sprinkler System -> OFF
+Soil Moisture : 32.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 20.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 23.0 || Humidifier -> OFF
+Soil Moisture : 29.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 18.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 35.0 || Humidifier -> OFF
+Soil Moisture : 26.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 16.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 23.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 31.0 || Humidifier -> OFF
+Green_House_Simulation_System.Temperature : 14.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 35.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 27.0 || Humidifier -> OFF
+Soil Moisture : 32.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 26.0 || Furncae-> OFF   Air Conditioner-> OFF
+Green_House_Simulation_System.Humidity : 23.0 || Humidifier -> OFF
+Soil Moisture : 29.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 24.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 26.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 35.0 || Humidifier -> OFF
+Green_House_Simulation_System.Temperature : 22.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 23.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 31.0 || Humidifier -> OFF
+Soil Moisture : 35.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 20.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 32.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 27.0 || Humidifier -> OFF
+Green_House_Simulation_System.Temperature : 18.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 29.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Humidity : 23.0 || Humidifier -> OFF
+Soil Moisture : 26.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 16.0 || Furncae-> OFF   Air Conditioner-> ON
+Soil Moisture : 23.0 || Sprinkler System -> OFF
+Green_House_Simulation_System.Temperature : 14.0 || Furncae-> OFF   Air Conditioner-> ON
+Green_House_Simulation_System.Humidity : 35.0 || Humidifier -> OFF
+Soil Moisture : 35.0 || Sprinkler System -> OFF
