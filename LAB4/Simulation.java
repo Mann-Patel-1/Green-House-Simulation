@@ -1,4 +1,4 @@
-package Green_House_Simulation_System;
+package LAB4;
 
 import javax.swing.*;
 import java.awt.event.ActionListener;
@@ -133,20 +133,20 @@ public class Simulation {
         weatherField = new JTextField();
 
         //create a temperature input section 
-        Temp = new JLabel("Green_House_Simulation_System.Temperature (°C)");
+        Temp = new JLabel("Temperature (°C)");
         Temp_inc = new JLabel("Increasing rate (°C/Min)");
         Temp_Dec = new JLabel("Decreasing rate (°C/Min)");
-        Temp_sample = new JLabel("Green_House_Simulation_System.Temperature Update");
+        Temp_sample = new JLabel("Temperature Update");
         Temp_input = new JTextField();
         Temp_inc_input = new JTextField();
         Temp_Dec_input = new JTextField();
         Temp_sample_input = new JTextField();
 
         //create a humidity input section
-        Humi = new JLabel("Green_House_Simulation_System.Humidity (%)");
+        Humi = new JLabel("Humidity (%)");
         Humi_inc = new JLabel("Increasing rate (%/Min)");
         Humi_Dec = new JLabel("Decreasing rate (%/Min)");
-        Humi_sample = new JLabel("Green_House_Simulation_System.Humidity Update");
+        Humi_sample = new JLabel("Humidity Update");
         Humi_input = new JTextField();
         Humi_inc_input = new JTextField();
         Humi_Dec_input = new JTextField();
@@ -291,7 +291,7 @@ public class Simulation {
      * @param mesag
      */
     public synchronized void appendTemperature(double temperature, String mesag) {
-        aTextArea.append(String.format("Green_House_Simulation_System.Temperature : "+ temperature + " || " + mesag + "\n"));
+        aTextArea.append(String.format("Temperature : "+ temperature + " || " + mesag + "\n"));
 
     }
 
@@ -301,7 +301,7 @@ public class Simulation {
      * @param mesag
      */
     public synchronized void appendHumidity(double temperature, String mesag) {
-        aTextArea.append(String.format("Green_House_Simulation_System.Humidity : "+ temperature + " || " + mesag + "\n"));
+        aTextArea.append(String.format("Humidity : "+ temperature + " || " + mesag + "\n"));
 
     }
 

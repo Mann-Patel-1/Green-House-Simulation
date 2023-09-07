@@ -1,4 +1,4 @@
-package Green_House_Simulation_System;
+package LAB4;
 
 public class SoilMoisture implements Runnable {
     private double moisture;
