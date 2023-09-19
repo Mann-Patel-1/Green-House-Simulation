@@ -9,7 +9,6 @@
 
   ## UML Class Diagram
   ![ULM Diagram](Images/UML%20Diagrams.png)
-  ![State Diagram](Images/State%20Diagram.jpg)
   
 
 Now, Enjoy the application
